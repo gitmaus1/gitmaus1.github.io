@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @gitmaus1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-2
-<!---
-gitmaus1/gitmaus1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Vefhönnun
+
+### Markmið:
+Nemendur geta:
+* Hannað vef og birt vefinn á eigin vefsvæði á Github.io
+
+* [Verklýsing](https://github.com/vefgrunnur/22V/tree/main/Verkefni/V-7)
+* [Tölvuleikjasagan](https://vefgrunnur.github.io/tolvuleikir/)
+
+#### Einkunn verður birt í Innu
