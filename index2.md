@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Skipulag, layout">
 	<meta name="author" content=" ">
-	<title>Verkefni 6.1 bakgrunnar</title>
+	<title>Verkefni 7.1 bakgrunnar</title>
 	<!-- veljið leturgerð af http://fonts.google.com-->
 	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,800;1,300;1,400;1,600;1,800&display=swap" rel="stylesheet">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -27,7 +27,7 @@
 			<h1>verðbólga</h1>
 		</div>
 		<div>
-			<h4 class="verkefni">Verkefni 6.1</h4>
+			<h4 class="verkefni">Verkefni 7.1</h4>
 			<nav class="topnav">
 			 
 			</nav>
