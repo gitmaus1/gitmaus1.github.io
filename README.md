@@ -15,7 +15,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Ewert&family=Fredericka+the+Great&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,800;1,300;1,400;1,600;1,800&family=Rokkitt:wght@300&family=Shizuru&display=swap" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="stilts.css">
-    <link rel="stylesheet" type="text/css" href="iframe.css"
+    <link rel="stylesheet" type="text/css" href="iframe.css">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Ewert&family=Fredericka+the+Great&family=Lobster&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,800;1,300;1,400;1,600;1,800&family=Redressed&family=Rokkitt:wght@300&family=Shizuru&display=swap" rel="stylesheet">
