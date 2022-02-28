@@ -49,6 +49,14 @@ h4{
 }
 blockquote{
     font-family: 'Lobster', cursive;
+    text-align: center;
+}
+figcaption{
+    color: #000;
+}
+img {
+    max-width: 100%;
+    height: auto;
 }
 .topnav{
     display: flex;
@@ -180,7 +188,7 @@ blockquote{
         gap: 2em;
     }
     .col-3{
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
         gap: 2em;
     }
     .taki{
